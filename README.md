@@ -52,36 +52,27 @@
 ## :star2: My Projects: 
 ## With React
 
-- <a href="https://fuatsevincuserapp.netlify.app/" target="_blank" >Random User App</a>
-- <a href="https://fuatsevinctasktracer.netlify.app/" target="_blank" >Task Tracker</a>
-- <a href="https://fuatsevincweatherapp.netlify.app/" target="_blank" >Weather App</a>
+- <a href="https://github.com/abrahamyetis" target="_blank" >Random User App</a>
+
 
 ## With Django
 
 ## With Bootsrap
-- <a href="https://fuatsevinc.github.io/BOOTSRAP-FuatSevincCompany/" target="_blank" >Bootsrap_Nord_Web_Disgn</a>
+- <a href="https://github.com/abrahamyetis" target="_blank" >Bootsrap_Nord_Web_Disgn</a>
 
 ## With HTML5 CSS3 JavaScript
 
-- <a href="https://fuatsevinc.github.io/HTML-JS-FetchApi/" target="_blank" >Fetch Api</a> 
-- <a href="https://fuatsevinc.github.io/HTML-CSS-JS-LottaryGame/" target="_blank" >Lottary Game</a> 
-- <a href="https://fuatsevinc.github.io/JS-Exact_Age_Calculater/" target="_blank" >Exact Age Calculater</a> 
-- <a href="https://fuatsevinc.github.io/HTML-CSS-Parallax/" target="_blank" >Parallax</a> 
-- <a href="https://fuatsevinc.github.io/HTML-KahootPage/" target="_blank" >Kahoot-Page</a>                                                     
-- <a href="https://abrahamyetis.github.io/HTML-CSS-GoogleHomepage/" target="_blank" >Google-Landing-Page</a>                     
-- <a href="https://fuatsevinc.github.io/HTML-CSS-Survey-Form/" target="_blank" >Survey-Form</a>                                                 
-- <a href="https://fuatsevinc.github.io/HTML_CSS-NetflixForm/" target="_blank" >Netflix-Form</a> 
-- <a href="https://fuatsevinc.github.io/fuatsevinc_CV/" target="_blank" >Fuat Sevinc CV</a> 
+- <a href="https://github.com/abrahamyetis" target="_blank" >Fetch Api</a> 
 
 ## :fire: My Stats :
 
 <h1 align="center">Summary</h1>
 <p>I am a web developer with a vast array knowledge in many different front end and back end languages, responsive frameworks,databases and best code practices.My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble and continuously making strides to learn all that i can about development. I  believe that my understanding of problem solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a developer.</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fuatsevinc)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrahamyetis)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fuatsevinc&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamyetis&show_icons=true)  
 
 
 
